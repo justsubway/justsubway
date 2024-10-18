@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently in school looking to get into computer science.<br>I'm learning Javascript, HTML, CSS and Python<br>I'm looking to learn React, Java and C<br>
+👋Hey there!<br> I'm a 17 year old student aiming to get into computer science.
 
 
 # 💻 Tech Stack:

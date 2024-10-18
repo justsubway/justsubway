@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hey there!<br> I'm a 17 year old student aiming to get into computer science.
+👋Hey there!<br> I'm a 17 year old student aiming to get into CS. <br> Currently learning HTML, JS and python
 
 
 # 💻 Tech Stack:

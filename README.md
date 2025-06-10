@@ -1,20 +1,41 @@
-# 💫 About Me:
-👋Hey there!<br> I'm a 17 year old student aiming to get into CS. <br> Currently learning HTML, JS and python
+# 👋 Hi, I’m Subway! 
+**17 y/o aspiring Computer Scientist | Java Enthusiast | Future Open-Source Contributor**
 
-View my latest project here: https://thewria.com
-
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=justsubway&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=justsubway&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=justsubway&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=justsubway&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
+🌱 **Currently Learning**: Java (Swing, Spring Boot), Python, Web Dev (HTML/CSS)  
+🎯 **Goal**: Build performant Java applications & contribute to meaningful open-source projects  
+📫 **Reach Me**: [Email](mailto:ritualhere2@gmail.com) | [Main Project](https://thewria.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=justsubway&icon=2&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Tech Stack
+**Primary Languages**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
+
+**Web & Tools**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+
+**Design & Media**  
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=white)
+
+---
+
+### 🚀 Latest Project: [Java Weather App](https://github.com/justsubway/weather-app)
+A Swing-based GUI app fetching real-time weather data from Open-Meteo API.  
+**Features**: Location search, dynamic icons, humidity/wind speed display.
+
+---
+
+### 📊 GitHub Stats
+| ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=justsubway&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justsubway&layout=compact&theme=radical&hide_border=true) |
+|-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+
+---
+
+### 🔥 Streak & Contributions
+![GitHub Streak](https://streak-stats.demolab.com/?user=justsubway&theme=radical&hide_border=true)
+
+---

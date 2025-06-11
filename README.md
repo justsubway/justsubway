@@ -24,7 +24,7 @@
 
 ---
 
-### 🚀 Latest Project: [Java Weather App](https://github.com/justsubway/weather-app)
+### 🚀 Latest Project: [Real-time Interactive Chat App](https://github.com/justsubway/chatapp)
 A Swing-based GUI app fetching real-time weather data from Open-Meteo API.  
 **Features**: Location search, dynamic icons, humidity/wind speed display.
 

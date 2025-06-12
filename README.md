@@ -32,8 +32,8 @@ Right now I’m working on full-stack apps and planning to dive into open source
 
 ## 🚀 Latest Project: [GeoRythm](https://github.com/justsubway/GeoRythm)
 
-A music player that recommends tracks based on your current location.  
-Built with **Java Swing**, uses the **Spotify** and **OpenWeather** APIs.
+A music player web app made with react that uses real time API data to display top tracks worldwide. 
+Showcases top artists, songs, has search features and personalised pages. 
 
 ---
 

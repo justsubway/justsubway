@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Subway  
-**18 y/o Computer Science Student | Java & Python focused | Building cool stuff with code**
+**18 y/o Computer Science Student | Web Focused | Building cool stuff with code**
 
 I’m into clean code, smart systems, and learning by doing.  
 Right now I’m working on full-stack apps and planning to dive into open source soon.  
 
-📫 [Email me](mailto:ritualhere2@gmail.com) · [Visit my site](https://thewria.com)
+📫 [Email me](mailto:geoara07@gmail.com) · [Visit my site](https://georgearampatzis.gr)
 
 ---
 

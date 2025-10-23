@@ -81,7 +81,6 @@ A comprehensive music analytics web application built with React that provides r
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justsubway&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=justsubway&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC)
 
 </div>
 
@@ -94,16 +93,6 @@ A comprehensive music analytics web application built with React that provides r
 - 🎨 **UI/UX Design**: Creating intuitive user experiences
 - 🤖 **AI Integration**: Exploring AI-powered applications
 - 📱 **Mobile Development**: Expanding to mobile platforms
-
----
-
-## 📈 2024 Goals
-
-- [ ] Launch 3 major full-stack projects
-- [ ] Contribute to 5+ open-source repositories
-- [ ] Master advanced React patterns and state management
-- [ ] Learn mobile development with React Native
-- [ ] Build a personal brand in the developer community
 
 ---
 
@@ -124,6 +113,6 @@ I'm always interested in collaborating on exciting projects and connecting with 
 
 **"Building the future, one line of code at a time."** 🚀
 
-*Last updated: January 2024*
+*Last updated: October 2025*
 
 </div>

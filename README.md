@@ -79,6 +79,8 @@ I study **Computer Science** and ship projects end to end: React/Next.js fronten
 
 | Project | What it is | Stack |
 |---------|------------|-------|
+
+| [**portfolio**](https://github.com/justsubway/Jarvis) | Typescript, AI desktop assistant |
 | [**portfolio**](https://github.com/justsubway/portfolio) | [georgearampatzis.gr](https://georgearampatzis.gr) | React, Tailwind, Framer Motion |
 | [**InstaWrapped**](https://github.com/justsubway/InstaWrapped) | Instagram Wrapped from exports — runs locally | Next.js, TypeScript |
 | [**georythm**](https://github.com/justsubway/georythm) | Music charts & search ([demo](https://justsubway.github.io/georythm/)) | React, Redux, Vite, Tailwind |
